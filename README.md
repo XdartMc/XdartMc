@@ -1,16 +1,20 @@
-## Hi there 👋
+# Xdart
+My name is Xdart. I'm 14 and I am Systems Engineer & System Architect. I have experience in Kernel, Compilers & UI engine Development on C. I also have experience in Tkinter on Python.
 
-<!--
-**XdartMc/XdartMc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Projects
+[**Vern programming language**](https://github.com/XdartMc/Vernlang)
 
-Here are some ideas to get you started:
+[**TinyWebUI low-level UI engine**](https://github.com/XdartMc/TinyWebUI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Contributions
+
+[**Cosmo - TUI with real-time visibility into PostgreSQL database**](https://github.com/mujib77/cosmo)
+> Made by [mujib77](https://github.com/mujib77)
+
+## My future Career
+I want to work in Google. I don't have official experience, but I have desire to work and Internet connection
+
+## Currently Works:
+* I'm working with my "Vern Paradigm"
+* I'm currently learning Vulkan API
+* I'm working with [TinyWebUI](https://github.com/XdartMc/TinyWebUI) optimization

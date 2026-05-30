@@ -47,7 +47,3 @@ I am a **Systems Engineer & System Architect** passionate about low-level develo
 My ultimate goal is to contribute to global technology infrastructure at companies like **Google**. I actively build my engineering portfolio through deep, architectural R&D and open-source contributions.
 
 ---
-
-### GitHub Metrics
-
-![Xdart's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XdartMc&show_icons=true&theme=dark&hide_border=true)

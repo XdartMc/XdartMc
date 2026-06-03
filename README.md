@@ -36,7 +36,7 @@ I am a **Systems Engineer & System Architect** passionate about low-level develo
 
 ## Current Focus & R&D
 
-* **The Vern Paradigm:** Refining core concepts and language specifications.
+* **The Secret "Zebest" project:** *Tsssss...*
 * **Graphics Programming:** Deep diving into the **Vulkan API** for next-gen hardware acceleration.
 * **UI Optimization:** Maximizing rendering efficiency in TinyWebUI.
 

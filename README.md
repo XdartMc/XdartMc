@@ -20,11 +20,15 @@ I am a **Systems Engineer & System Architect** passionate about low-level develo
 
 ### [Vern Programming Language](https://github.com/XdartMc/Vernlang)
 * **Description:** A custom programming language built to implement the *Vern Paradigm*. Focused on strict, efficient data handling and low-level control.
-* **Status:** Under active development (currently implementing advanced bitwise operations and optimal shift logic).
+* **Status:** WIP (Development libraries).
 
 ### [TinyWebUI Low-Level UI Engine](https://github.com/XdartMc/TinyWebUI)
 * **Description:** A lightweight, high-performance user interface engine engineered for speed and minimal overhead.
-* **Status:** Active optimization phase.
+* **Status:** Ready to use.
+
+### [Universal User Safety Filter](https://github.com/XdartMc/UUSF-Filter)
+* **Description:** Ultra-fast, lightweight, zero-allocation content moderation and anti-spam filter engine written in pure C11.
+* **Status:** Ready to use (Beta)
 
 ---
 

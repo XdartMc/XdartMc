@@ -7,7 +7,7 @@ I am a **Systems Engineer & System Architect** passionate about low-level develo
 ## 🛠️ Tech Stack & Architecture Focus
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Language-C11-%2300599C?style=flat-square&logo=c&logoColor=white" alt="C11" />
+  <img src="https://img.shields.io/badge/Language-C%2FASM-%2300599C?style=flat-square&logo=c&logoColor=white" alt="C11" />
   <img src="https://img.shields.io/badge/Architecture-x86__64%20%2F%20ARM64-%23000000?style=flat-square" alt="Asm" />
   <img src="https://img.shields.io/badge/API-Vulkan-E62117?style=flat-square&logo=vulkan&logoColor=white" alt="Vulkan" />
   <img src="https://img.shields.io/badge/Language-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />

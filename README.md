@@ -1,6 +1,6 @@
 # Hi there, I'm Xdart
 
-I am a **Systems Engineer & System Architect** passionate about low-level development, custom OS kernels, compiler engineering, and high-performance, bare-metal UI engines. I focus on building independent, ultra-optimized software ecosystems completely from scratch.
+I am a **Senior Systems Architect & Full-Stack Engineer** passionate about low-level development, custom OS kernels, compiler engineering, and high-performance, bare-metal UI engines. I focus on building independent, ultra-optimized software ecosystems completely from scratch.
 
 ---
 

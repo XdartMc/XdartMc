@@ -12,6 +12,7 @@ I am a **Systems Engineer & System Architect** passionate about low-level develo
   <img src="https://img.shields.io/badge/API-Vulkan-E62117?style=flat-square&logo=vulkan&logoColor=white" alt="Vulkan" />
   <img src="https://img.shields.io/badge/Language-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/OS-Linux%20Bare--Metal-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/License-ZESL-000000?style=flat-square&logoColor=black" alt="ZESL" />
 </p>
 
 ---

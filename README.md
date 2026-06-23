@@ -19,7 +19,7 @@ I am a **Systems Engineer & System Architect** passionate about low-level develo
 
 ## 🛡️ Core Projects & Infrastructure Ecosystem
 
-## [Vern Programming Language](https://github.com/XdartMc/Vernlang)
+### [Vern Programming Language](https://github.com/XdartMc/Vernlang)
 * **Description:** A statically-typed, high-performance programming language combining C-speed execution with clean, rapid syntax. Driven by a custom pseudo-ISA `VAMC IR` for multi-target native code generation (x86_64, ARM64, and raw ISO disk images). Architected for standalone, dependency-free binary emitting.
 * **Status:** **Ready to use** (Core compiler architecture & execution runtimes).
 

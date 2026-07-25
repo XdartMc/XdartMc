@@ -32,7 +32,7 @@ I am a **Senior Systems Architect & Full-Stack Engineer** passionate about low-l
 * **Status:** **Ready to use** (Production-ready core library).
 
 ### [GenC Meta-Compiler and Language Generation Framework](https://github.com/XdartMc/GenC)
-GenC is a declarative meta-compiler system in standard C (C99/C11 standard). It processes an HTML/XML language specification file (.genc) to dynamically construct a lexer, parser, AST builder, and C code generator or interpreter driver, which is then compiled into a standalone binary using gcc.
+* **Description:** Declarative meta-compiler system in standard C (C99/C11 standard). It processes an HTML/XML language specification file (.genc) to dynamically construct a lexer, parser, AST builder, and C code generator or interpreter driver, which is then compiled into a standalone binary using gcc.
 * **Status:** **Ready to use** (Beta).
 ---
 

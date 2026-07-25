@@ -31,6 +31,9 @@ I am a **Senior Systems Architect & Full-Stack Engineer** passionate about low-l
 * **Description:** An ultra-fast, zero-heap-allocation content moderation and anti-spam filter engine written in pure C11. Engineered as a high-traffic Edge Proxy component to block L33T evasion, malicious domains, and homoglyph attacks before hitting heavy AI/LLM compute layers. Shipped with enterprise-grade FFI bindings for **Go, Rust, Node.js, and Python**.
 * **Status:** **Ready to use** (Production-ready core library).
 
+### [GenC Meta-Compiler and Language Generation Framework](https://github.com/XdartMc/GenC)
+GenC is a declarative meta-compiler system in standard C (C99/C11 standard). It processes an HTML/XML language specification file (.genc) to dynamically construct a lexer, parser, AST builder, and C code generator or interpreter driver, which is then compiled into a standalone binary using gcc.
+* **Status:** **Ready to use** (Beta).
 ---
 
 ## 🌐 Open Source Contributions

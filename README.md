@@ -4,8 +4,6 @@ I am a **Senior Systems Architect & Full-Stack Engineer** passionate about low-l
 
 ---
 
-## 🛠️ Tech Stack & Architecture Focus
-
 <p align="left">
   <img src="https://img.shields.io/badge/Language-C%2FASM-%2300599C?style=flat-square&logo=c&logoColor=white" alt="C11" />
   <img src="https://img.shields.io/badge/Architecture-x86__64%20%2F%20ARM64-%23000000?style=flat-square" alt="Asm" />

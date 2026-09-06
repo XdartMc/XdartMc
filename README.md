@@ -10,7 +10,7 @@ I am a **Senior Systems Architect & Full-Stack Engineer** passionate about low-l
   <img src="https://img.shields.io/badge/API-Vulkan-E62117?style=flat-square&logo=vulkan&logoColor=white" alt="Vulkan" />
   <img src="https://img.shields.io/badge/Language-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Licenses-ZEL--and--Apache-000000?style=flat-square&logoColor=black" alt="ZEGL" />
+  <img src="https://img.shields.io/badge/Licenses-ZEL_and_Apache-000000?style=flat-square&logoColor=black" alt="ZEGL" />
 </p>
 
 ---
